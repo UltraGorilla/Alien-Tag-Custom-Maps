@@ -2,11 +2,6 @@
 How to make Alien Tag Custom Maps!
 
 
-Vid Tutorial:
-https://www.youtube.com/watch?v=nq82uMEairU&t=7s
-
-Google Doc:
-https://docs.google.com/document/d/1_ZoIMMyF4NMpwmM6lkO7xpjlvx0k9TZbJlZQdlgT7cA/edit
 
 1. Open project with Unity 2023.2.1f
 2. If there is no scene open you should open mainscenme (in folder "Scenes")
@@ -24,3 +19,16 @@ https://docs.google.com/document/d/1_ZoIMMyF4NMpwmM6lkO7xpjlvx0k9TZbJlZQdlgT7cA/
 11. When that's done you should see "Streaming assets" folder under "project"
     Right click on it and "Show in explorer". Select "android" and "windows" folders and zip them together.
 12. That zip now can be uploaded to https://mod.io/g/alientag
+
+
+Vid Tutorial:
+https://www.youtube.com/watch?v=nq82uMEairU&t=7s
+
+Google Doc:
+https://docs.google.com/document/d/1_ZoIMMyF4NMpwmM6lkO7xpjlvx0k9TZbJlZQdlgT7cA/edit
+
+Mod.io:
+https://mod.io/g/alientag
+
+Map Template:
+drive.google.com/file/d/1PTNZVFiUDbbt8JZNh_b743F1IR31q1ut/view

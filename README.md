@@ -31,4 +31,4 @@ Mod.io:
 https://mod.io/g/alientag
 
 Map Template:
-[drive.google.com/file/d/1PTNZVFiUDbbt8JZNh_b743F1IR31q1ut/view](https://drive.google.com/file/d/1PTNZVFiUDbbt8JZNh_b743F1IR31q1ut/view)https://drive.google.com/file/d/1PTNZVFiUDbbt8JZNh_b743F1IR31q1ut/view
+https://drive.google.com/file/d/1PTNZVFiUDbbt8JZNh_b743F1IR31q1ut/view

@@ -1,5 +1,5 @@
-# Alien-Tag-Custom-Maps
-How to make Alien Tag Custom Maps!
+### Alien-Tag-Custom-Maps (All links below)
+# How to make an Alien Tag Custom Map!
 
 
 
@@ -20,15 +20,21 @@ How to make Alien Tag Custom Maps!
     Right click on it and "Show in explorer". Select "android" and "windows" folders and zip them together.
 12. That zip now can be uploaded to https://mod.io/g/alientag
 
+_________________________________________________________________
+### Links:
+
 
 Vid Tutorial:
 https://www.youtube.com/watch?v=nq82uMEairU&t=7s
 
+
 Google Doc:
 https://docs.google.com/document/d/1_ZoIMMyF4NMpwmM6lkO7xpjlvx0k9TZbJlZQdlgT7cA/edit
 
+
 Mod.io:
 https://mod.io/g/alientag
+
 
 Map Template:
 https://drive.google.com/file/d/1PTNZVFiUDbbt8JZNh_b743F1IR31q1ut/view
